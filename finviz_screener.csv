@@ -1,7 +1,7 @@
 ﻿No.,Ticker,Company,Sector,Industry,Country,Market Cap,Dividend,Dividend.1,Volume,Price
 1,IEP,Icahn Enterprises L P,Energy,Oil & Gas Refining & Marketing,USA,4.86B,2.0,23.61%,425823,8.47
 2,BRSL,Brightstar Lottery PLC,Consumer Cyclical,Gambling,United Kingdom,3.15B,3.8,22.84%,1233513,16.64
-3,IX,Orix Corporation ADR,Financial,Financial Conglomerates,Japan,29.35B,4.84,18.68%,189881,25.92
+3,IX,Orix Corporation ADR,Financial,Financial Conglomerates,Japan,29.35B,4.84,18.66%,189881,25.92
 4,CLM,Cornerstone Strategic Investment Fund Inc,Financial,Closed-End Fund - Equity,USA,2.05B,1.41,17.37%,1541915,8.13
 5,ADX,Adams Diversified Equity Fund,Financial,Closed-End Fund - Equity,USA,2.61B,3.35,15.44%,278419,21.69
 6,PPC,Pilgrim's Pride Corp,Consumer Defensive,Packaged Foods,USA,10.56B,6.83,15.36%,1092715,44.45
@@ -19,83 +19,83 @@
 18,BSM,Black Stone Minerals L.P,Energy,Oil & Gas E&P,USA,2.58B,1.32,10.88%,1461364,12.16
 19,GBDC,Golub Capital BDC Inc,Financial,Asset Management,USA,3.97B,1.56,10.44%,1087237,14.92
 20,WU,Western Union Company,Financial,Credit Services,USA,2.80B,0.9,10.42%,10561926,8.67
-1,IEP,Icahn Enterprises L P,Energy,Oil & Gas Refining & Marketing,USA,4.86B,2.0,23.61%,425823,8.47
-2,BRSL,Brightstar Lottery PLC,Consumer Cyclical,Gambling,United Kingdom,3.15B,3.8,22.84%,1233513,16.64
-3,IX,Orix Corporation ADR,Financial,Financial Conglomerates,Japan,29.35B,4.84,18.68%,189881,25.92
-4,CLM,Cornerstone Strategic Investment Fund Inc,Financial,Closed-End Fund - Equity,USA,2.05B,1.41,17.37%,1541915,8.13
-5,ADX,Adams Diversified Equity Fund,Financial,Closed-End Fund - Equity,USA,2.61B,3.35,15.44%,278419,21.69
-6,PPC,Pilgrim's Pride Corp,Consumer Defensive,Packaged Foods,USA,10.56B,6.83,15.36%,1092715,44.45
-7,AGNC,AGNC Investment Corp,Real Estate,REIT - Mortgage,USA,10.17B,1.44,14.75%,13958021,9.76
-8,GOF,Guggenheim Strategic Opportunities Fund,Financial,Closed-End Fund - Debt,USA,2.62B,2.18,14.63%,1076200,14.93
-9,FSK,FS KKR Capital Corp,Financial,Asset Management,USA,5.11B,2.61,14.33%,1365777,18.24
-10,PDI,PIMCO Dynamic Income Fund,Financial,Closed-End Fund - Debt,USA,7.44B,2.64,13.44%,2210208,19.65
-11,NLY,Annaly Capital Management Inc,Real Estate,REIT - Mortgage,USA,13.61B,2.8,13.21%,4996801,21.19
-12,EC,Ecopetrol SA ADR,Energy,Oil & Gas Integrated,Colombia,19.32B,1.19,12.69%,1472459,9.4
-13,ASR,Grupo Aeroportuario Del Sureste S.A. ADR,Industrials,Airports & Air Services,Mexico,9.02B,38.58,11.84%,93700,325.71
-14,PBR-A,Petroleo Brasileiro S.A. Petrobras ADR,Energy,Oil & Gas Integrated,Brazil,30.34B,1.33,11.63%,6379880,11.47
-15,ARLP,"Alliance Resource Partners, LP",Energy,Thermal Coal,USA,2.96B,2.6,11.30%,874087,23.01
-16,AMBP,Ardagh Metal Packaging S.A,Consumer Cyclical,Packaging & Containers,Luxembourg,2.21B,0.41,11.13%,688934,3.69
-17,BWLP,BW LPG Limited,Industrials,Marine Shipping,Singapore,2.36B,1.7,10.92%,422821,15.57
-18,BSM,Black Stone Minerals L.P,Energy,Oil & Gas E&P,USA,2.58B,1.32,10.88%,1461364,12.16
-19,GBDC,Golub Capital BDC Inc,Financial,Asset Management,USA,3.97B,1.56,10.44%,1087237,14.92
-20,WU,Western Union Company,Financial,Credit Services,USA,2.80B,0.9,10.42%,10561926,8.67
-1,IEP,Icahn Enterprises L P,Energy,Oil & Gas Refining & Marketing,USA,4.86B,2.0,23.61%,425823,8.47
-2,BRSL,Brightstar Lottery PLC,Consumer Cyclical,Gambling,United Kingdom,3.15B,3.8,22.84%,1233513,16.64
-3,IX,Orix Corporation ADR,Financial,Financial Conglomerates,Japan,29.35B,4.84,18.68%,189881,25.92
-4,CLM,Cornerstone Strategic Investment Fund Inc,Financial,Closed-End Fund - Equity,USA,2.05B,1.41,17.37%,1541915,8.13
-5,ADX,Adams Diversified Equity Fund,Financial,Closed-End Fund - Equity,USA,2.61B,3.35,15.44%,278419,21.69
-6,PPC,Pilgrim's Pride Corp,Consumer Defensive,Packaged Foods,USA,10.56B,6.83,15.36%,1092715,44.45
-7,AGNC,AGNC Investment Corp,Real Estate,REIT - Mortgage,USA,10.17B,1.44,14.75%,13958021,9.76
-8,GOF,Guggenheim Strategic Opportunities Fund,Financial,Closed-End Fund - Debt,USA,2.62B,2.18,14.63%,1076200,14.93
-9,FSK,FS KKR Capital Corp,Financial,Asset Management,USA,5.11B,2.61,14.33%,1365777,18.24
-10,PDI,PIMCO Dynamic Income Fund,Financial,Closed-End Fund - Debt,USA,7.44B,2.64,13.44%,2210208,19.65
-11,NLY,Annaly Capital Management Inc,Real Estate,REIT - Mortgage,USA,13.61B,2.8,13.21%,4996801,21.19
-12,EC,Ecopetrol SA ADR,Energy,Oil & Gas Integrated,Colombia,19.32B,1.19,12.69%,1472459,9.4
-13,ASR,Grupo Aeroportuario Del Sureste S.A. ADR,Industrials,Airports & Air Services,Mexico,9.02B,38.58,11.84%,93700,325.71
-14,PBR-A,Petroleo Brasileiro S.A. Petrobras ADR,Energy,Oil & Gas Integrated,Brazil,30.34B,1.33,11.63%,6379880,11.47
-15,ARLP,"Alliance Resource Partners, LP",Energy,Thermal Coal,USA,2.96B,2.6,11.30%,874087,23.01
-16,AMBP,Ardagh Metal Packaging S.A,Consumer Cyclical,Packaging & Containers,Luxembourg,2.21B,0.41,11.13%,688934,3.69
-17,BWLP,BW LPG Limited,Industrials,Marine Shipping,Singapore,2.36B,1.7,10.92%,422821,15.57
-18,BSM,Black Stone Minerals L.P,Energy,Oil & Gas E&P,USA,2.58B,1.32,10.88%,1461364,12.16
-19,GBDC,Golub Capital BDC Inc,Financial,Asset Management,USA,3.97B,1.56,10.44%,1087237,14.92
-20,WU,Western Union Company,Financial,Credit Services,USA,2.80B,0.9,10.42%,10561926,8.67
-1,IEP,Icahn Enterprises L P,Energy,Oil & Gas Refining & Marketing,USA,4.86B,2.0,23.61%,425823,8.47
-2,BRSL,Brightstar Lottery PLC,Consumer Cyclical,Gambling,United Kingdom,3.15B,3.8,22.84%,1233513,16.64
-3,IX,Orix Corporation ADR,Financial,Financial Conglomerates,Japan,29.35B,4.84,18.68%,189881,25.92
-4,CLM,Cornerstone Strategic Investment Fund Inc,Financial,Closed-End Fund - Equity,USA,2.05B,1.41,17.37%,1541915,8.13
-5,ADX,Adams Diversified Equity Fund,Financial,Closed-End Fund - Equity,USA,2.61B,3.35,15.44%,278419,21.69
-6,PPC,Pilgrim's Pride Corp,Consumer Defensive,Packaged Foods,USA,10.56B,6.83,15.36%,1092715,44.45
-7,AGNC,AGNC Investment Corp,Real Estate,REIT - Mortgage,USA,10.17B,1.44,14.75%,13958021,9.76
-8,GOF,Guggenheim Strategic Opportunities Fund,Financial,Closed-End Fund - Debt,USA,2.62B,2.18,14.63%,1076200,14.93
-9,FSK,FS KKR Capital Corp,Financial,Asset Management,USA,5.11B,2.61,14.33%,1365777,18.24
-10,PDI,PIMCO Dynamic Income Fund,Financial,Closed-End Fund - Debt,USA,7.44B,2.64,13.44%,2210208,19.65
-11,NLY,Annaly Capital Management Inc,Real Estate,REIT - Mortgage,USA,13.61B,2.8,13.21%,4996801,21.19
-12,EC,Ecopetrol SA ADR,Energy,Oil & Gas Integrated,Colombia,19.32B,1.19,12.69%,1472459,9.4
-13,ASR,Grupo Aeroportuario Del Sureste S.A. ADR,Industrials,Airports & Air Services,Mexico,9.02B,38.58,11.84%,93700,325.71
-14,PBR-A,Petroleo Brasileiro S.A. Petrobras ADR,Energy,Oil & Gas Integrated,Brazil,30.34B,1.33,11.63%,6379880,11.47
-15,ARLP,"Alliance Resource Partners, LP",Energy,Thermal Coal,USA,2.96B,2.6,11.30%,874087,23.01
-16,AMBP,Ardagh Metal Packaging S.A,Consumer Cyclical,Packaging & Containers,Luxembourg,2.21B,0.41,11.13%,688934,3.69
-17,BWLP,BW LPG Limited,Industrials,Marine Shipping,Singapore,2.36B,1.7,10.92%,422821,15.57
-18,BSM,Black Stone Minerals L.P,Energy,Oil & Gas E&P,USA,2.58B,1.32,10.88%,1461364,12.16
-19,GBDC,Golub Capital BDC Inc,Financial,Asset Management,USA,3.97B,1.56,10.44%,1087237,14.92
-20,WU,Western Union Company,Financial,Credit Services,USA,2.80B,0.9,10.42%,10561926,8.67
-1,IEP,Icahn Enterprises L P,Energy,Oil & Gas Refining & Marketing,USA,4.86B,2.0,23.61%,425823,8.47
-2,BRSL,Brightstar Lottery PLC,Consumer Cyclical,Gambling,United Kingdom,3.15B,3.8,22.84%,1233513,16.64
-3,IX,Orix Corporation ADR,Financial,Financial Conglomerates,Japan,29.35B,4.84,18.68%,189881,25.92
-4,CLM,Cornerstone Strategic Investment Fund Inc,Financial,Closed-End Fund - Equity,USA,2.05B,1.41,17.37%,1541915,8.13
-5,ADX,Adams Diversified Equity Fund,Financial,Closed-End Fund - Equity,USA,2.61B,3.35,15.44%,278419,21.69
-6,PPC,Pilgrim's Pride Corp,Consumer Defensive,Packaged Foods,USA,10.56B,6.83,15.36%,1092715,44.45
-7,AGNC,AGNC Investment Corp,Real Estate,REIT - Mortgage,USA,10.17B,1.44,14.75%,13958021,9.76
-8,GOF,Guggenheim Strategic Opportunities Fund,Financial,Closed-End Fund - Debt,USA,2.62B,2.18,14.63%,1076200,14.93
-9,FSK,FS KKR Capital Corp,Financial,Asset Management,USA,5.11B,2.61,14.33%,1365777,18.24
-10,PDI,PIMCO Dynamic Income Fund,Financial,Closed-End Fund - Debt,USA,7.44B,2.64,13.44%,2210208,19.65
-11,NLY,Annaly Capital Management Inc,Real Estate,REIT - Mortgage,USA,13.61B,2.8,13.21%,4996801,21.19
-12,EC,Ecopetrol SA ADR,Energy,Oil & Gas Integrated,Colombia,19.32B,1.19,12.69%,1472459,9.4
-13,ASR,Grupo Aeroportuario Del Sureste S.A. ADR,Industrials,Airports & Air Services,Mexico,9.02B,38.58,11.84%,93700,325.71
-14,PBR-A,Petroleo Brasileiro S.A. Petrobras ADR,Energy,Oil & Gas Integrated,Brazil,30.34B,1.33,11.63%,6379880,11.47
-15,ARLP,"Alliance Resource Partners, LP",Energy,Thermal Coal,USA,2.96B,2.6,11.30%,874087,23.01
-16,AMBP,Ardagh Metal Packaging S.A,Consumer Cyclical,Packaging & Containers,Luxembourg,2.21B,0.41,11.13%,688934,3.69
-17,BWLP,BW LPG Limited,Industrials,Marine Shipping,Singapore,2.36B,1.7,10.92%,422821,15.57
-18,BSM,Black Stone Minerals L.P,Energy,Oil & Gas E&P,USA,2.58B,1.32,10.88%,1461364,12.16
-19,GBDC,Golub Capital BDC Inc,Financial,Asset Management,USA,3.97B,1.56,10.44%,1087237,14.92
-20,WU,Western Union Company,Financial,Credit Services,USA,2.80B,0.9,10.42%,10561926,8.67
+21,PBR,Petroleo Brasileiro S.A. Petrobras ADR,Energy,Oil & Gas Integrated,Brazil,46.14B,1.29,10.40%,19646886,12.4
+22,OBDC,Blue Owl Capital Corp,Financial,Asset Management,USA,7.33B,1.49,10.37%,1571006,14.34
+23,ABR,Arbor Realty Trust Inc,Real Estate,REIT - Mortgage,USA,2.30B,1.23,10.32%,2155292,11.94
+24,BXSL,Blackstone Secured Lending Fund,Financial,Asset Management,USA,6.90B,3.08,10.28%,845287,29.97
+25,KEN,Kenon Holdings Ltd,Utilities,Utilities - Independent Power Producers,Singapore,2.45B,4.8,10.21%,7617,46.99
+26,DKL,Delek Logistics Partners LP,Energy,Oil & Gas Refining & Marketing,USA,2.34B,4.47,10.20%,60942,43.82
+27,PTY,PIMCO Corporate & Income Opportunity Fund,Financial,Closed-End Fund - Debt,USA,2.64B,1.43,10.09%,550922,14.15
+28,JPC,Nuveen Preferred & Income Opportunities Fund,Financial,Closed-End Fund - Debt,USA,2.60B,0.79,9.80%,937691,8.08
+29,LYB,LyondellBasell Industries NV,Basic Materials,Specialty Chemicals,United Kingdom,18.12B,5.44,9.66%,3499649,56.35
+30,BXMT,Blackstone Mortgage Trust Inc,Real Estate,REIT - Mortgage,USA,3.36B,1.88,9.61%,582596,19.56
+31,STWD,Starwood Property Trust Inc,Real Estate,REIT - Mortgage,USA,7.44B,1.92,9.47%,2292796,20.27
+32,WES,Western Midstream Partners LP,Energy,Oil & Gas Midstream,USA,14.95B,3.64,9.28%,1274867,39.21
+33,FMX,Fomento Economico Mexicano S.A.B. de C.V. ADR,Consumer Defensive,Beverages - Brewers,Mexico,17.84B,7.95,9.17%,826921,86.64
+34,HAFN,Hafnia Ltd,Industrials,Marine Shipping,Singapore,3.08B,0.55,9.01%,1323124,6.13
+35,WPP,WPP Plc. ADR,Communication Services,Advertising Agencies,United Kingdom,5.73B,2.39,8.99%,347185,26.54
+36,TRMD,Torm Plc,Energy,Oil & Gas Midstream,United Kingdom,2.13B,1.95,8.95%,418051,21.75
+37,EXG,Eaton Vance Tax-Managed Global Diversified Equity Income Fund,Financial,Closed-End Fund - Foreign,USA,2.73B,0.79,8.87%,546048,8.93
+38,PK,Park Hotels & Resorts Inc,Real Estate,REIT - Hotel & Motel,USA,2.35B,1.04,8.82%,2540181,11.76
+39,USAC,USA Compression Partners LP,Energy,Oil & Gas Equipment & Services,USA,2.95B,2.1,8.73%,274738,24.06
+40,PAA,Plains All American Pipeline LP,Energy,Oil & Gas Midstream,USA,12.66B,1.55,8.63%,1783121,18.0
+41,BRFS,BRF S.A. ADR,Consumer Defensive,Packaged Foods,Brazil,6.12B,0.33,8.58%,3061788,3.82
+42,ARCC,Ares Capital Corp,Financial,Asset Management,USA,15.80B,1.92,8.57%,2325134,22.4
+43,CIB,Grupo Cibest S.A. ADR,Financial,Banks - Regional,Colombia,5.70B,4.24,8.40%,250138,50.46
+44,DOW,Dow Inc,Basic Materials,Chemicals,USA,17.46B,2.06,8.37%,8789196,24.63
+45,PHI,PLDT Inc ADR,Communication Services,Telecom Services,Philippines,4.42B,1.71,8.36%,103340,20.48
+46,AB,AllianceBernstein Holding Lp,Financial,Asset Management,USA,4.38B,3.29,8.31%,106838,39.58
+47,KYN,Kayne Anderson Energy Infrastructure Fund Inc,Financial,Closed-End Fund - Equity,USA,2.12B,1.04,8.30%,408441,12.53
+48,FRO,Frontline Plc,Energy,Oil & Gas Midstream,Cyprus,4.65B,1.73,8.26%,4176897,20.9
+49,HTGC,Hercules Capital Inc,Financial,Asset Management,USA,3.55B,1.6,8.20%,661600,19.52
+50,RITM,Rithm Capital Corporation,Real Estate,REIT - Mortgage,USA,6.57B,1.0,8.08%,3727708,12.38
+51,TX,Ternium S.A. ADR,Basic Materials,Steel,Luxembourg,6.51B,2.68,8.08%,177241,33.16
+52,NAD,Nuveen Quality Municipal Income Fund,Financial,Closed-End Fund - Debt,USA,2.64B,0.91,8.05%,766268,11.33
+53,TFSL,TFS Financial Corporation,Financial,Banks - Regional,USA,3.95B,1.13,8.04%,391052,14.06
+54,NZF,Nuveen Municipal Credit Income Fund,Financial,Closed-End Fund - Debt,USA,2.32B,0.96,8.02%,665428,11.97
+55,NVG,Nuveen AMT-Free Municipal Credit Income Fund,Financial,Closed-End Fund - Debt,USA,2.53B,0.95,7.99%,629964,11.86
+56,MPLX,MPLX LP,Energy,Oil & Gas Midstream,USA,51.84B,4.05,7.97%,1340644,50.87
+57,NEA,Nuveen AMT-Free Quality Municipal Income Fund,Financial,Closed-End Fund - Debt,USA,3.29B,0.88,7.96%,860760,11.0
+58,DNP,DNP Select Income Fund Inc,Financial,Closed-End Fund - Equity,USA,3.68B,0.78,7.90%,364113,9.87
+59,ABEV,Ambev S.A. ADR,Consumer Defensive,Beverages - Brewers,Brazil,34.93B,0.18,7.88%,26809250,2.24
+60,INSW,International Seaways Inc,Energy,Oil & Gas Midstream,USA,2.24B,3.57,7.86%,715072,45.42
+61,BBD,Banco Bradesco S.A. ADR,Financial,Banks - Regional,USA,16.50B,0.24,7.82%,29247961,3.11
+62,PAGP,Plains GP Holdings LP,Energy,Oil & Gas Midstream,USA,14.66B,1.5,7.77%,661560,19.3
+63,CNA,CNA Financial Corp,Financial,Insurance - Property & Casualty,USA,13.41B,3.84,7.75%,291567,49.55
+64,TSLX,Sixth Street Specialty Lending Inc,Financial,Asset Management,USA,2.30B,1.89,7.74%,242964,24.45
+65,TIGO,Millicom International Cellular S.A,Communication Services,Telecom Services,Luxembourg,8.31B,3.71,7.68%,787126,48.31
+66,KNTK,Kinetik Holdings Inc,Energy,Oil & Gas Midstream,USA,6.77B,3.17,7.59%,7594176,41.83
+67,APAM,Artisan Partners Asset Management Inc,Financial,Asset Management,USA,3.78B,3.54,7.56%,289858,46.79
+68,ETY,Eaton Vance Tax-Managed Diversified Equity Income Fund,Financial,Closed-End Fund - Equity,USA,2.49B,1.19,7.50%,263740,15.84
+69,ET,Energy Transfer LP,Energy,Oil & Gas Midstream,USA,60.83B,1.33,7.49%,8950656,17.72
+70,UPS,"United Parcel Service, Inc",Industrials,Integrated Freight & Logistics,USA,74.11B,6.55,7.49%,6833146,87.44
+71,VALE,Vale S.A. ADR,Basic Materials,Other Industrial Metals & Mining,Brazil,43.88B,0.77,7.48%,15104218,10.28
+72,ITUB,Itau Unibanco Holding S.A. ADR,Financial,Banks - Regional,Brazil,38.06B,0.53,7.41%,19475289,7.14
+73,APLE,Apple Hospitality REIT Inc,Real Estate,REIT - Hotel & Motel,USA,3.10B,0.97,7.40%,3815550,13.06
+74,CIG,Cia Energetica DE Minas Gerais - Cemig ADR,Utilities,Utilities - Diversified,Brazil,3.87B,0.15,7.39%,1572484,2.03
+75,OUT,Outfront Media Inc,Real Estate,REIT - Specialty,USA,3.12B,1.38,7.37%,884081,18.68
+76,CAG,Conagra Brands Inc,Consumer Defensive,Packaged Foods,USA,9.13B,1.41,7.35%,8266312,19.13
+77,TU,Telus Corp,Communication Services,Telecom Services,Canada,25.15B,1.21,7.33%,2678637,16.49
+78,NE,Noble Corp Plc,Energy,Oil & Gas Drilling,USA,4.58B,2.08,7.23%,998279,28.82
+79,SOBO,South Bow Corp,Energy,Oil & Gas Midstream,Canada,5.78B,2.0,7.21%,694974,27.74
+80,HESM,Hess Midstream LP,Energy,Oil & Gas Midstream,USA,8.65B,2.97,7.20%,1246949,41.2
+81,MPW,Medical Properties Trust Inc,Real Estate,REIT - Healthcare Facilities,USA,2.70B,0.32,7.11%,6455406,4.5
+82,NSA,National Storage Affiliates Trust,Real Estate,REIT - Industrial,USA,4.36B,2.28,7.06%,711186,32.23
+83,SUN,Sunoco LP,Energy,Oil & Gas Refining & Marketing,USA,8.00B,3.67,7.02%,434036,52.3
+84,UWMC,UWM Holdings Corporation,Financial,Mortgage Finance,USA,9.12B,0.4,7.02%,7868479,5.7
+85,BKE,"Buckle, Inc",Consumer Cyclical,Apparel Retail,USA,2.89B,3.96,6.99%,495863,56.59
+86,ELP,Cia Paranaense De Energia Copel ADR,Utilities,Utilities - Regulated Electric,Brazil,3.79B,0.63,6.98%,156012,9.06
+87,UTF,Cohen & Steers Infrastructure Fund Inc,Financial,Closed-End Fund - Equity,USA,2.58B,1.86,6.98%,192821,26.66
+88,TIMB,TIM SA ADR,Communication Services,Telecom Services,Brazil,10.23B,1.46,6.91%,321837,21.15
+89,BCE,BCE Inc,Communication Services,Telecom Services,Canada,23.01B,1.72,6.90%,2434761,24.96
+90,PFE,Pfizer Inc,Healthcare,Drug Manufacturers - General,USA,140.77B,1.71,6.89%,36985734,24.76
+91,BCH,Banco de Chile ADR,Financial,Banks - Regional,Chile,14.51B,1.97,6.86%,127696,28.73
+92,E,Eni Spa ADR,Energy,Oil & Gas Integrated,Italy,52.65B,2.45,6.84%,185663,35.77
+93,DOC,Healthpeak Properties Inc,Real Estate,REIT - Healthcare Facilities,USA,12.74B,1.22,6.81%,5435823,17.94
+94,NOG,Northern Oil and Gas Inc,Energy,Oil & Gas E&P,USA,2.55B,1.78,6.80%,1069024,26.16
+95,WBA,Walgreens Boots Alliance Inc,Healthcare,Pharmaceutical Retailers,USA,10.37B,0.81,6.80%,0,11.98
+96,EPD,Enterprise Products Partners L P,Energy,Oil & Gas Midstream,USA,69.59B,2.18,6.78%,3079560,32.14
+97,JBS,JBS N.V,Consumer Defensive,Packaged Foods,Netherlands,17.10B,1.1,6.77%,7090179,16.21
+98,OMF,OneMain Holdings Inc,Financial,Credit Services,USA,7.35B,4.16,6.72%,642372,61.86
+99,CSQ,Calamos Strategic Total Return Fund,Financial,Closed-End Fund - Debt,USA,2.99B,1.22,6.57%,132336,18.62
+100,FLO,"Flowers Foods, Inc",Consumer Defensive,Packaged Foods,USA,3.18B,0.98,6.49%,2271991,15.04

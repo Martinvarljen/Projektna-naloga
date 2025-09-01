@@ -15,7 +15,8 @@ def naredi_html_tabele_finviz(stevilo_strani=5, mapa_izhod="finviz_strani"):
         if stran == 1:
             url = prvi_url
         else:
-            url = f"{prvi_url}"
+            r = 1 + (stran - 1) * 20
+            url = f"{prvi_url}&r={r}"
 
         r = requests.get(url, headers=headers)
         if r.status_code != 200:
@@ -41,7 +42,7 @@ def naredi_html_tabele_finviz(stevilo_strani=5, mapa_izhod="finviz_strani"):
 
 naredi_html_tabele_finviz(stevilo_strani=5, mapa_izhod="finviz_strani")
 
-poti = [os.path.join('finviz_tabele', f'tabela_stran{i}.html') for i in range(1, 6)]
+poti = [os.path.join('finviz_strani', f'tabela_stran{i}.html') for i in range(1, 6)]
 
 podatki = [pd.read_html(p, flavor="lxml")[0] for p in poti]
 
