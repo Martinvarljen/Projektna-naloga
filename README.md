@@ -20,7 +20,7 @@ s katere sem ustvaril 5 html strani iz katerih funkcija pobere te podatke.
 - **`df`** – združen DataFrame vseh delnic.  
 - **`out_csv`** – končni CSV izvoz (`finviz_screener.csv`).  
 
----
+
 
 ##  Uporaba
 
